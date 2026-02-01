@@ -23,7 +23,11 @@ My research interest includes end-to-end autonomous driving, world models and re
 
 
 
-
+# 🔥 News
+- *2026.01*: One Paper (AdaThinkDrive) is accepted by ICRA 2026!
+- *2025.12*: One Paper (xTED) is accepted by AAMAS 2026!
+- *2025.08*: One Paper (VILTA) is accepted by AAAI 2026!
+- *2023.10*: One Paper (SDM) is accepted by NeurIPS 2023 Symposium on ML4AD and ALOE Workshop!
 
 # 📝 Publications 
 
