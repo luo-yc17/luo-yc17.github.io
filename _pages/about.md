@@ -33,7 +33,7 @@ My research interest includes end-to-end autonomous driving, world models and re
 
 - Yuechen Luo, Fang Li, Shaoqing Xu, Zhiyi Lai, Lei Yang, **Qimao Chen**, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-xin Yang, [**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**](https://arxiv.org/abs/2509.13769), ICRA 2026.
 
-- Haoyi Niu\*, **Qimao Chen**\*, Yingyue Li and Jianming Hu, [**Stackelberg Autonomous-Background Vehicle Modeling for Continual Policy Improvement**](https://arxiv.org/abs/2309.14235), NeurIPS 2023 Symposium on Machine Learning for Autonomous Driving & Agent Learning in Open-Endedness Workshop.
+- Haoyi Niu\*, **Qimao Chen**\*, Yingyue Li and Jianming Hu, [**Stackelberg Autonomous-Background Vehicle Modeling for Continual Policy Improvement**](https://arxiv.org/abs/2309.14235), NeurIPS 2023 ML4AD Workshop.
 
 <!-- ## Preprints and Codebases -->
 
