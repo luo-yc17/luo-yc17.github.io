@@ -25,7 +25,6 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 
 # 🔥 News
 - *2026.01*: One Paper (ELF-VLA) is accepted by CVPR 2026!
-
 - *2026.01*: One Paper (AdaThinkDrive) is accepted by ICRA 2026!
 - *2025.12*: One Paper (xTED) is accepted by AAMAS 2026!
 - *2025.08*: One Paper (VILTA) is accepted by AAAI 2026!
@@ -33,14 +32,16 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 
 # 📝 Publications 
 
-- **Qimao Chen**\*, Fang Li\*, Shaoqing Xu\*, Zhiyi Lai, Zixun Xie, Yuechen Luo, Shengyin Jiang, Hanbing Li, Long Chen, Bing Wang, Yi Zhang, Zhi-Xin Yang, [**VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**](https://arxiv.org/abs/2601.12672), AAAI 2026.
+
 
 - Yuechen Luo\*, **Qimao Chen**\*, Fang Li\*, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen, **Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**, CVPR 2026. (Paper Coming Soon)
 
-- Haoyi Niu\*, **Qimao Chen**\*, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu, Xianyuan Zhan, [**xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing**](https://arxiv.org/pdf/2409.08687?), AAMAS 2026.
-
 - Yuechen Luo, Fang Li, Shaoqing Xu, Zhiyi Lai, Lei Yang, **Qimao Chen**, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-xin Yang, [**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**](https://arxiv.org/abs/2509.13769), ICRA 2026.
-
+  
+- Haoyi Niu\*, **Qimao Chen**\*, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu, Xianyuan Zhan, [**xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing**](https://arxiv.org/pdf/2409.08687?), AAMAS 2026.
+  
+- **Qimao Chen**\*, Fang Li\*, Shaoqing Xu\*, Zhiyi Lai, Zixun Xie, Yuechen Luo, Shengyin Jiang, Hanbing Li, Long Chen, Bing Wang, Yi Zhang, Zhi-Xin Yang, [**VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**](https://arxiv.org/abs/2601.12672), AAAI 2026.
+  
 - Haoyi Niu\*, **Qimao Chen**\*, Yingyue Li and Jianming Hu, [**Stackelberg Autonomous-Background Vehicle Modeling for Continual Policy Improvement**](https://arxiv.org/abs/2309.14235), NeurIPS 2023 ML4AD Workshop.
 
 <!-- ## Preprints and Codebases -->
