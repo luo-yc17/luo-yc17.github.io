@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a second-year master's student in Department of Automation, Tsinghua University. Aditionally, I work as an intern at Xiaomi-EV.
+Hi, I am a second-year master's student in Department of Automation, Tsinghua University.
 
 My research interest includes end-to-end autonomous driving, reinforcement learning and llm applications.
 
@@ -56,4 +56,7 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 - *2024.09 - present*, Master's Student, Department of Automation, Tsinghua Univeristy, Beijing, China.
 - *2020.09 - 2024.07*, Undergraduate, Department of Automation, Tsinghua Univeristy, Beijing, China.
 
+
+# 💻 Internships
+- *2024.12 - 2026.04*, [Xiaomi EV](https://www.xiaomiev.com/), China.
 
