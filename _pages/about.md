@@ -17,32 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am a second-year master's student in Department of Automation, Tsinghua University.
+Hi, I am a second-year master's student in School of Vehicles and Transportation, Tsinghua University. Aditionally, I work as an intern at Xiaomi-EV.
 
-My research interest includes end-to-end autonomous driving, reinforcement learning and llm applications.
-
+My research interest includes end-to-end autonomous driving, reinforcement learning and vlm applications.
 
 
 # 🔥 News
 - *2026.01*: One Paper (ELF-VLA) is accepted by CVPR 2026!
 - *2026.01*: One Paper (AdaThinkDrive) is accepted by ICRA 2026!
-- *2025.12*: One Paper (xTED) is accepted by AAMAS 2026!
+- *2026.01*: One Paper (MTRDrive) is accepted by ICRA 2026!
 - *2025.08*: One Paper (VILTA) is accepted by AAAI 2026!
-- *2023.10*: One Paper (SDM) is accepted by NeurIPS 2023 Symposium on ML4AD and ALOE Workshop!
 
 # 📝 Publications 
 
 
+- **Yuechen Luo**, Yuechen Luo, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen, [**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**](https://arxiv.org/abs/2603.01928), arxiv.
 
-- Yuechen Luo\*, **Qimao Chen**\*, Fang Li\*, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen, [**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**](https://arxiv.org/pdf/2603.01063), CVPR 2026.
+- **Yuechen Luo**, Qimao Chen, Fang Li, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen, [**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**](https://arxiv.org/pdf/2603.01063), CVPR 2026.
 
-- Yuechen Luo, Fang Li, Shaoqing Xu, Zhiyi Lai, Lei Yang, **Qimao Chen**, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-xin Yang, [**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**](https://arxiv.org/abs/2509.13769), ICRA 2026.
+- **Yuechen Luo**, Fang Li, Shaoqing Xu, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-xin Yang, [**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**](https://arxiv.org/abs/2509.13769), ICRA 2026.
+
+- Ziang Luo, Kangan Qian, Jiahua Wang, **Yuechen Luo**, Jinyu Miao, Zheng Fu, Yunlong Wang, Sicong Jiang, Zilin Huang, Yifei Hu, Yuhao Yang, Hao Ye, Mengmeng Yang, Xiaojian Dong, Kun Jiang, Diange Yang, [**MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases**](https://arxiv.org/abs/2509.20843), ICRA 2026.
+
+
+- Qimao Chen, Fang Li, Shaoqing Xu, Zhiyi Lai, Zixun Xie, **Yuechen Luo**, Shengyin Jiang, Hanbing Li, Long Chen, Bing Wang, Yi Zhang, Zhi-Xin Yang, [**VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**](https://arxiv.org/abs/2601.12672), AAAI 2026.
   
-- Haoyi Niu\*, **Qimao Chen**\*, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu, Xianyuan Zhan, [**xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing**](https://arxiv.org/pdf/2409.08687?), AAMAS 2026.
-  
-- **Qimao Chen**\*, Fang Li\*, Shaoqing Xu\*, Zhiyi Lai, Zixun Xie, Yuechen Luo, Shengyin Jiang, Hanbing Li, Long Chen, Bing Wang, Yi Zhang, Zhi-Xin Yang, [**VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**](https://arxiv.org/abs/2601.12672), AAAI 2026.
-  
-- Haoyi Niu\*, **Qimao Chen**\*, Yingyue Li and Jianming Hu, [**Stackelberg Autonomous-Background Vehicle Modeling for Continual Policy Improvement**](https://arxiv.org/abs/2309.14235), NeurIPS 2023 ML4AD Workshop.
 
 <!-- ## Preprints and Codebases -->
 
@@ -53,10 +52,5 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 
 
 # 📖 Educations
-- *2024.09 - present*, Master's Student, Department of Automation, Tsinghua Univeristy, Beijing, China.
-- *2020.09 - 2024.07*, Undergraduate, Department of Automation, Tsinghua Univeristy, Beijing, China.
-
-
-# 💻 Internships
-- *2024.12 - 2026.04*, [Xiaomi EV](https://www.xiaomiev.com/), China.
-
+- *2024.09 - present*, Master's Student, School of Vehicles and Transportation, Tsinghua Univeristy, Beijing, China.
+- *2020.09 - 2024.07*, Undergraduate, School of Transportation, Harbin Institute of Technology, Harbin, China.
