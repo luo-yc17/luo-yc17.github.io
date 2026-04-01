@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qimao Chen"
-description              : "Master Student at Department of Automation, Tsinghua University. Focusing on Autonomous Driving."
-repository               : "BlueCat-de/BlueCat-de.github.io"
+title                    : "Yuechen Luo"
+description              : "Master Student at School of Vehicle and Mobility, Tsinghua Univeristy. Focusing on Autonomous Driving."
+repository               : "luo-yc17/luo-yc17.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qimao Chen"
+  name             : "Yuechen Luo"
   avatar           : "images/me.jpg"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=cb7JpWQAAAAJ"
-  email            : "chenqimao8@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=cNf7PjkAAAAJ&hl=zh-CN"
+  email            : "luo-yc24@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

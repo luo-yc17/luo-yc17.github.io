@@ -48,9 +48,6 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 
 
 
-
-
-
 # 📖 Educations
-- *2024.09 - present*, Master's Student, School of Vehicles and Transportation, Tsinghua Univeristy, Beijing, China.
+- *2024.09 - present*, Master's Student, School of Vehicle and Mobility, Tsinghua Univeristy, Beijing, China.
 - *2020.09 - 2024.07*, Undergraduate, School of Transportation, Harbin Institute of Technology, Harbin, China.
