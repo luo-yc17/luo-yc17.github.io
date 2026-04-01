@@ -33,14 +33,14 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 
 - **Yuechen Luo**, Yuechen Luo, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen, [**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**](https://arxiv.org/abs/2603.01928), arxiv.
 
-- **Yuechen Luo**, Qimao Chen, Fang Li, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen, [**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**](https://arxiv.org/pdf/2603.01063), CVPR 2026.
+- **Yuechen Luo**, Qimao Chen, Fang Li, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen, [**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**](https://arxiv.org/pdf/2603.01063)(ELF-VLA), **CVPR 2026**.
 
-- **Yuechen Luo**, Fang Li, Shaoqing Xu, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-xin Yang, [**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**](https://arxiv.org/abs/2509.13769), ICRA 2026.
+- **Yuechen Luo**, Fang Li, Shaoqing Xu, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-xin Yang, [**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**](https://arxiv.org/abs/2509.13769), **ICRA 2026**.
 
-- Ziang Luo, Kangan Qian, Jiahua Wang, **Yuechen Luo**, Jinyu Miao, Zheng Fu, Yunlong Wang, Sicong Jiang, Zilin Huang, Yifei Hu, Yuhao Yang, Hao Ye, Mengmeng Yang, Xiaojian Dong, Kun Jiang, Diange Yang, [**MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases**](https://arxiv.org/abs/2509.20843), ICRA 2026.
+- Ziang Luo, Kangan Qian, Jiahua Wang, **Yuechen Luo**, Jinyu Miao, Zheng Fu, Yunlong Wang, Sicong Jiang, Zilin Huang, Yifei Hu, Yuhao Yang, Hao Ye, Mengmeng Yang, Xiaojian Dong, Kun Jiang, Diange Yang, [**MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases**](https://arxiv.org/abs/2509.20843), **ICRA 2026**.
 
 
-- Qimao Chen, Fang Li, Shaoqing Xu, Zhiyi Lai, Zixun Xie, **Yuechen Luo**, Shengyin Jiang, Hanbing Li, Long Chen, Bing Wang, Yi Zhang, Zhi-Xin Yang, [**VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**](https://arxiv.org/abs/2601.12672), AAAI 2026.
+- Qimao Chen, Fang Li, Shaoqing Xu, Zhiyi Lai, Zixun Xie, **Yuechen Luo**, Shengyin Jiang, Hanbing Li, Long Chen, Bing Wang, Yi Zhang, Zhi-Xin Yang, [**VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**](https://arxiv.org/abs/2601.12672), **AAAI 2026**.
   
 
 <!-- ## Preprints and Codebases -->
