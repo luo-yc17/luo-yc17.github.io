@@ -23,10 +23,10 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 
 
 # 🔥 News
-- *2026.01*: One Paper (ELF-VLA) is accepted by CVPR 2026!
-- *2026.01*: One Paper (AdaThinkDrive) is accepted by ICRA 2026!
-- *2026.01*: One Paper (MTRDrive) is accepted by ICRA 2026!
-- *2025.08*: One Paper (VILTA) is accepted by AAAI 2026!
+- *2026.01*: One Paper (ELF-VLA) is accepted by **CVPR 2026**!
+- *2026.01*: One Paper (AdaThinkDrive) is accepted by **ICRA 2026**!
+- *2026.01*: One Paper (MTRDrive) is accepted by **ICRA 2026**!
+- *2025.08*: One Paper (VILTA) is accepted by **AAAI 2026**!
 
 # 📝 Publications 
 
