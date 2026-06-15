@@ -23,15 +23,18 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 
 
 # 🔥 News
-- *2026.01*: One Paper (ELF-VLA) is accepted by **CVPR 2026**!
+- *2026.02*: One Paper (ELF-VLA) is accepted by **CVPR 2026**!
 - *2026.01*: One Paper (AdaThinkDrive) is accepted by **ICRA 2026**!
 - *2026.01*: One Paper (MTRDrive) is accepted by **ICRA 2026**!
-- *2025.08*: One Paper (VILTA) is accepted by **AAAI 2026**!
+- *2025.11*: One Paper (VILTA) is accepted by **AAAI 2026**!
 
 # 📝 Publications 
 
+- Qimao Chen, Fang Li, **Yuechen Luo**, Zehan Zhang, Haiyang Sun, Fangzhen Li, Bing Wang, Guang Chen, Yang Ji, Jiong Deng, Hongwei Xie, Hangjun Ye, Long Chen, Yi Zhang, [**DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving**](https://arxiv.org/abs/2606.08525), arxiv.
 
-- **Yuechen Luo**, Yuechen Luo, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen, [**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**](https://arxiv.org/abs/2603.01928), arxiv.
+- Xiaomi Technical Report, [**Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**](https://arxiv.org/abs/2604.18486/v3), arxiv.
+
+- **Yuechen Luo**, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen, [**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**](https://arxiv.org/abs/2603.01928/v2), arxiv.
 
 - **Yuechen Luo**, Qimao Chen, Fang Li, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen, [**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**](https://arxiv.org/pdf/2603.01063)(ELF-VLA), **CVPR 2026**.
 
