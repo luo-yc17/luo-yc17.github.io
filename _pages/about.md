@@ -23,7 +23,7 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 
 
 # 🔥 News
-- *2026.06*: One Paper (World-in-Loo) is accepted by **ECCV 2026**!
+- *2026.06*: One Paper (World-in-Loop) is accepted by **ECCV 2026**!
 - *2026.06*: One Paper (DriveVer) is accepted by **IROS 2026**!
 - *2026.02*: One Paper (ELF-VLA) is accepted by **CVPR 2026**!
 - *2026.01*: One Paper (AdaThinkDrive) is accepted by **ICRA 2026**!
