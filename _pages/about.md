@@ -35,7 +35,7 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
   
 - Chong He, **Yuechen Luo\***, Fang Li*, Shaoqing Xu, Fuxi Wen, [**DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving**](https://arxiv.org/html/2607.00399v1)), **IROS 2026**.
 
-- Qimao Chen, Fang Li, **Yuechen Luo**, Zehan Zhang, Haiyang Sun, Fangzhen Li, Bing Wang, Guang Chen, Yang Ji, Jiong Deng, Hongwei Xie, Hangjun Ye, Long Chen, Yi Zhang, [**DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving**](https://arxiv.org/abs/2606.08525), arxiv.
+- Qimao Chen*, Fang Li*, **Yuechen Luo\***, Zehan Zhang, Haiyang Sun, Fangzhen Li, Bing Wang, Guang Chen, Yang Ji, Jiong Deng, Hongwei Xie, Hangjun Ye, Long Chen, Yi Zhang, [**DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving**](https://arxiv.org/abs/2606.08525), arxiv.
 
 - Xiaomi Technical Report, [**Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**](https://arxiv.org/abs/2604.18486/v3), arxiv.
 
