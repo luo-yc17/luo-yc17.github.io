@@ -31,6 +31,9 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 - *2025.11*: One Paper (VILTA) is accepted by **AAAI 2026**!
 
 # 📝 Publications 
+- Shaoqing Xu*, Fang Li*, **Yuechen Luo\***, Qimao Chen, Zhixiang Duan, Yifan Yang, Long Chen, Zhi-Xin Yang, **World-in-Loop: Online Correction via Event-Triggered World Models for Robust VLA Policies**, **ECCV 2026**.
+  
+- Chong He, **Yuechen Luo\***, Fang Li*, Shaoqing Xu, Fuxi Wen, [**DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving**](https://arxiv.org/html/2607.00399v1)), **IROS 2026**.
 
 - Qimao Chen, Fang Li, **Yuechen Luo**, Zehan Zhang, Haiyang Sun, Fangzhen Li, Bing Wang, Guang Chen, Yang Ji, Jiong Deng, Hongwei Xie, Hangjun Ye, Long Chen, Yi Zhang, [**DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving**](https://arxiv.org/abs/2606.08525), arxiv.
 
