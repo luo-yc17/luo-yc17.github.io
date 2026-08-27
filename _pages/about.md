@@ -31,19 +31,23 @@ My research interest includes end-to-end autonomous driving, reinforcement learn
 - *2025.11*: One Paper (VILTA) is accepted by **AAAI 2026**!
 
 # 📝 Publications 
-- Shaoqing Xu*, Fang Li*, **Yuechen Luo\***, Qimao Chen, Zhixiang Duan, Yifan Yang, Long Chen, Zhi-Xin Yang, **World-in-Loop: Online Correction via Event-Triggered World Models for Robust VLA Policies**, **ECCV 2026**.
-  
-- Chong He, **Yuechen Luo\***, Fang Li*, Shaoqing Xu, Fuxi Wen, [**DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving**](https://arxiv.org/html/2607.00399v1)), **IROS 2026**.
 
-- Qimao Chen*, Fang Li*, **Yuechen Luo\***, Zehan Zhang, Haiyang Sun, Fangzhen Li, Bing Wang, Guang Chen, Yang Ji, Jiong Deng, Hongwei Xie, Hangjun Ye, Long Chen, Yi Zhang, [**DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving**](https://arxiv.org/abs/2606.08525), arxiv.
+- Xiaomi Technical Report(**Xiaomi Embodied Intelligence Team**), [**One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation**](https://arxiv.org/abs/2608.26058), arxiv.
+
+
+- Shaoqing Xu\*, Fang Li\*, **Yuechen Luo\***, Qimao Chen, Zhixiang Duan, Yifan Yang, Long Chen, Zhi-Xin Yang, **World-in-Loop: Online Correction via Event-Triggered World Models for Robust VLA Policies**, **ECCV 2026**.
+  
+- Chong He*, **Yuechen Luo\***, Fang Li*, Shaoqing Xu, Fuxi Wen, [**DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving**](https://arxiv.org/html/2607.00399v1)), **IROS 2026**.
+
+- Qimao Chen\*, Fang Li\*, **Yuechen Luo\***, Zehan Zhang, Haiyang Sun, Fangzhen Li, Bing Wang, Guang Chen, Yang Ji, Jiong Deng, Hongwei Xie, Hangjun Ye, Long Chen, Yi Zhang, [**DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving**](https://arxiv.org/abs/2606.08525), arxiv.
 
 - Xiaomi Technical Report, [**Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**](https://arxiv.org/abs/2604.18486/v3), arxiv.
 
-- **Yuechen Luo**, Fang Li, Shaoqing Xu, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen, [**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**](https://arxiv.org/abs/2603.01928/v2), arxiv.
+- **Yuechen Luo**, Fang Li\*, Shaoqing Xu\*, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen, [**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**](https://arxiv.org/abs/2603.01928/v2), arxiv.
 
-- **Yuechen Luo**, Qimao Chen, Fang Li, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen, [**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**](https://arxiv.org/pdf/2603.01063)(ELF-VLA), **CVPR 2026**.
+- **Yuechen Luo**, Qimao Chen\*, Fang Li\*, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen, [**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**](https://arxiv.org/pdf/2603.01063)(ELF-VLA), **CVPR 2026**.
 
-- **Yuechen Luo**, Fang Li, Shaoqing Xu, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-xin Yang, [**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**](https://arxiv.org/abs/2509.13769), **ICRA 2026**.
+- **Yuechen Luo**, Fang Li\*, Shaoqing Xu\*, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-xin Yang, [**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**](https://arxiv.org/abs/2509.13769), **ICRA 2026**.
 
 - Ziang Luo, Kangan Qian, Jiahua Wang, **Yuechen Luo**, Jinyu Miao, Zheng Fu, Yunlong Wang, Sicong Jiang, Zilin Huang, Yifei Hu, Yuhao Yang, Hao Ye, Mengmeng Yang, Xiaojian Dong, Kun Jiang, Diange Yang, [**MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases**](https://arxiv.org/abs/2509.20843), **ICRA 2026**.
 
