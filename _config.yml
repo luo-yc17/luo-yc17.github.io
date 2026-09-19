@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuechen Luo"
-description              : "Master Student at School of Vehicle and Mobility, Tsinghua Univeristy. Focusing on Autonomous Driving."
+description              : "Vision-Language-Action · Autonomous Driving"
 repository               : "luo-yc17/luo-yc17.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuechen Luo"
-  avatar           : "images/me.jpg"
-  bio              : "Tsinghua University"
+  avatar           : "images/avatar.jpg"
+  bio              : "M.S. Student at Tsinghua University"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Xiaomi EV"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=cNf7PjkAAAAJ&hl=zh-CN"
   email            : "luo-yc24@mails.tsinghua.edu.cn"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "luo-yc17"
   google_plus      :
   keybase          :
   instagram        :

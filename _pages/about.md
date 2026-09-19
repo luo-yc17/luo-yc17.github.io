@@ -3,63 +3,268 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class="anchor" id="about-me"></span>
 
-<span class='anchor' id='about-me'></span>
+<section class="intro-section">
+  <p class="eyebrow">ABOUT ME</p>
+  <h1>Building reliable intelligence for autonomous systems.</h1>
+  <p class="intro-lead">
+    Hi, I am <strong>Yuechen Luo</strong>, a master's student at the
+    <a href="https://www.svm.tsinghua.edu.cn/" target="_blank" rel="noopener">School of Vehicle and Mobility, Tsinghua University</a>,
+    and a research intern at <strong>Xiaomi EV</strong>.
+  </p>
+  <p>
+    My research focuses on <strong>vision-language-action models</strong>,
+    <strong>reinforcement learning</strong>, <strong>world models</strong>, and
+    <strong>end-to-end autonomous driving</strong>. I am especially interested in
+    reasoning, verification, and robust policy learning for long-tail driving scenarios.
+  </p>
+  <div class="intro-actions">
+    <a class="profile-button profile-button--primary" href="mailto:luo-yc24@mails.tsinghua.edu.cn">Email me</a>
+    <a class="profile-button" href="https://scholar.google.com/citations?user=cNf7PjkAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+    <a class="profile-button" href="https://github.com/luo-yc17" target="_blank" rel="noopener">GitHub</a>
+  </div>
+</section>
 
-Hi, I am a second-year master's student in School of Vehicles and Transportation, Tsinghua University. Aditionally, I work as an intern at Xiaomi-EV.
+<span class="anchor" id="education"></span>
 
-My research interest includes end-to-end autonomous driving, reinforcement learning and vlm applications.
+<section class="content-section education-section">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">BACKGROUND</p>
+      <h2>Education</h2>
+    </div>
+    <span class="section-count">02</span>
+  </div>
 
+  <div class="education-list">
+    <article class="education-card">
+      <div class="institution-mark institution-mark--thu" aria-hidden="true">THU</div>
+      <div class="education-copy">
+        <div class="education-title-row">
+          <h3>Tsinghua University</h3>
+          <span>2024 — Present</span>
+        </div>
+        <p class="education-degree">M.S. Student · School of Vehicle and Mobility</p>
+        <p class="education-meta">Beijing, China · Autonomous driving, VLA models, reinforcement learning</p>
+      </div>
+    </article>
 
-# 🔥 News
-- *2026.06*: One Paper (World-in-Loop) is accepted by **ECCV 2026**!
-- *2026.06*: One Paper (DriveVer) is accepted by **IROS 2026**!
-- *2026.02*: One Paper (ELF-VLA) is accepted by **CVPR 2026**!
-- *2026.01*: One Paper (AdaThinkDrive) is accepted by **ICRA 2026**!
-- *2026.01*: One Paper (MTRDrive) is accepted by **ICRA 2026**!
-- *2025.11*: One Paper (VILTA) is accepted by **AAAI 2026**!
+    <article class="education-card">
+      <div class="institution-mark institution-mark--hit" aria-hidden="true">HIT</div>
+      <div class="education-copy">
+        <div class="education-title-row">
+          <h3>Harbin Institute of Technology</h3>
+          <span>2020 — 2024</span>
+        </div>
+        <p class="education-degree">Bachelor's Degree · School of Transportation</p>
+        <p class="education-meta">Harbin, China</p>
+      </div>
+    </article>
+  </div>
+</section>
 
-# 📝 Publications 
+<span class="anchor" id="publications"></span>
 
-- Xiaomi Technical Report(**Xiaomi Embodied Intelligence Team**), [**One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation**](https://arxiv.org/abs/2608.26058), arxiv.
+<section class="content-section publications-section">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">RESEARCH</p>
+      <h2>Selected Publications</h2>
+    </div>
+    <span class="section-count">10</span>
+  </div>
+  <p class="section-intro">
+    Selected work on autonomous driving and embodied intelligence. <span class="muted">* denotes equal contribution.</span>
+  </p>
 
+  <div class="publication-list">
+    <article class="publication-card">
+      <a class="publication-figure" href="https://arxiv.org/abs/2608.26058" target="_blank" rel="noopener">
+        <img src="{{ '/images/publications/ucag-p.png' | relative_url }}" alt="UCAG-P overview" loading="lazy">
+        <span class="venue-badge venue-badge--preprint">arXiv 2026</span>
+      </a>
+      <div class="publication-copy">
+        <p class="publication-kicker">Embodied Intelligence · Cross-Embodiment Learning</p>
+        <h3><a href="https://arxiv.org/abs/2608.26058" target="_blank" rel="noopener">One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation</a></h3>
+        <p class="publication-authors">Shaoqing Xu*, Fang Li*, Guozhi Zhan, Zhixiang Duan, Yuhan Wang, <strong>Yuechen Luo</strong>, et al.</p>
+        <p class="publication-summary">UCAG-P aligns heterogeneous robot and human demonstrations in a shared camera-centric action space for transferable manipulation.</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/abs/2608.26058" target="_blank" rel="noopener">Paper</a>
+          <a href="https://public-bots.github.io/UCAG-P/" target="_blank" rel="noopener">Project</a>
+          <a href="https://github.com/Public-BOTs/ucag-p" target="_blank" rel="noopener">Repository</a>
+          <span class="resource-note">Code coming soon</span>
+        </div>
+      </div>
+    </article>
 
-- Shaoqing Xu\*, Fang Li\*, **Yuechen Luo\***, Qimao Chen, Zhixiang Duan, Yifan Yang, Long Chen, Zhi-Xin Yang, **World-in-Loop: Online Correction via Event-Triggered World Models for Robust VLA Policies**, **ECCV 2026**.
-  
-- Chong He*, **Yuechen Luo\***, Fang Li*, Shaoqing Xu, Fuxi Wen, [**DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving**](https://arxiv.org/html/2607.00399v1)), **IROS 2026**.
+    <article class="publication-card">
+      <a class="publication-figure" href="https://eccv.ecva.net/virtual/2026/poster/4231" target="_blank" rel="noopener">
+        <img src="{{ '/images/publications/world-in-loop.png' | relative_url }}" alt="World-in-Loop overview" loading="lazy">
+        <span class="venue-badge">ECCV 2026</span>
+      </a>
+      <div class="publication-copy">
+        <p class="publication-kicker">World Models · Online Correction</p>
+        <h3><a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5018.pdf" target="_blank" rel="noopener">World-in-Loop: Online Correction via Event-Triggered World Models for Robust VLA Policies</a></h3>
+        <p class="publication-authors">Shaoqing Xu*, Fang Li*, <strong>Yuechen Luo*</strong>, Qimao Chen*, Yifan Yang, Zhixiang Duan, Long Chen, Zhi-Xin Yang</p>
+        <p class="publication-summary">An event-triggered world model detects risky grasp attempts and imagines successful futures to correct VLA policies online.</p>
+        <div class="publication-links">
+          <a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5018.pdf" target="_blank" rel="noopener">Paper</a>
+          <a href="https://eccv.ecva.net/virtual/2026/poster/4231" target="_blank" rel="noopener">ECCV page</a>
+          <span class="resource-note resource-note--muted">Code not public</span>
+        </div>
+      </div>
+    </article>
 
-- Qimao Chen\*, Fang Li\*, **Yuechen Luo\***, Zehan Zhang, Haiyang Sun, Fangzhen Li, Bing Wang, Guang Chen, Yang Ji, Jiong Deng, Hongwei Xie, Hangjun Ye, Long Chen, Yi Zhang, [**DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving**](https://arxiv.org/abs/2606.08525), arxiv.
+    <article class="publication-card">
+      <a class="publication-figure" href="https://arxiv.org/abs/2607.00399" target="_blank" rel="noopener">
+        <img src="{{ '/images/publications/drivever.jpg' | relative_url }}" alt="DriveVer overview" loading="lazy">
+        <span class="venue-badge">IROS 2026</span>
+      </a>
+      <div class="publication-copy">
+        <p class="publication-kicker">Test-Time Verification · Planning</p>
+        <h3><a href="https://arxiv.org/abs/2607.00399" target="_blank" rel="noopener">DriveVer: Lightweight Trajectory Evaluator as Test-Time Verifier for Autonomous Driving</a></h3>
+        <p class="publication-authors">Chong He*, <strong>Yuechen Luo*</strong>, Fang Li, Shaoqing Xu, Fuxi Wen</p>
+        <p class="publication-summary">A compact plug-and-play verifier scores and refines candidate trajectories at test time with minimal latency overhead.</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/abs/2607.00399" target="_blank" rel="noopener">Paper</a>
+          <span class="resource-note resource-note--muted">Code not public</span>
+        </div>
+      </div>
+    </article>
 
-- Xiaomi Technical Report, [**Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**](https://arxiv.org/abs/2604.18486/v3), arxiv.
+    <article class="publication-card">
+      <a class="publication-figure" href="https://arxiv.org/abs/2606.08525" target="_blank" rel="noopener">
+        <img src="{{ '/images/publications/drivereward.jpg' | relative_url }}" alt="DriveReward overview" loading="lazy">
+        <span class="venue-badge venue-badge--preprint">arXiv 2026</span>
+      </a>
+      <div class="publication-copy">
+        <p class="publication-kicker">Reward Modeling · Driving Dataset</p>
+        <h3><a href="https://arxiv.org/abs/2606.08525" target="_blank" rel="noopener">DriveReward: A Comprehensive Dataset and Generative Vision-Language Reward Model for Autonomous Driving</a></h3>
+        <p class="publication-authors">Qimao Chen*, Fang Li*, <strong>Yuechen Luo*</strong>, Zehan Zhang, Haiyang Sun, et al.</p>
+        <p class="publication-summary">DriveReward introduces a counterfactual driving dataset and a compact generative reward model for trajectory evaluation and RL.</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/abs/2606.08525" target="_blank" rel="noopener">Paper</a>
+          <span class="resource-note resource-note--muted">Code not public</span>
+        </div>
+      </div>
+    </article>
 
-- **Yuechen Luo**, Fang Li\*, Shaoqing Xu\*, Yang Ji, Zehan Zhang, Bing Wang, Yuannan Shen, Jianwei Cui, Long Chen, Guang Chen, Hangjun Ye, Zhi-Xin Yang, Fuxi Wen, [**LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving**](https://arxiv.org/abs/2603.01928/v2), arxiv.
+    <article class="publication-card">
+      <a class="publication-figure" href="https://xiaomi-embodied-intelligence.github.io/OneVL/" target="_blank" rel="noopener">
+        <img src="{{ '/images/publications/onevl.png' | relative_url }}" alt="Xiaomi OneVL framework" loading="lazy">
+        <span class="venue-badge venue-badge--preprint">Technical Report 2026</span>
+      </a>
+      <div class="publication-copy">
+        <p class="publication-kicker">Latent Reasoning · World Models</p>
+        <h3><a href="https://arxiv.org/abs/2604.18486" target="_blank" rel="noopener">Xiaomi OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation</a></h3>
+        <p class="publication-authors">Xiaomi Embodied Intelligence Team</p>
+        <p class="publication-summary">OneVL compresses visual prediction and language reasoning into latent tokens for fast, interpretable planning.</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/abs/2604.18486" target="_blank" rel="noopener">Paper</a>
+          <a href="https://xiaomi-embodied-intelligence.github.io/OneVL/" target="_blank" rel="noopener">Project</a>
+          <a href="https://github.com/xiaomi-research/onevl" target="_blank" rel="noopener">Code</a>
+          <a href="https://huggingface.co/collections/xiaomi-research/onevl-models" target="_blank" rel="noopener">Models</a>
+        </div>
+      </div>
+    </article>
 
-- **Yuechen Luo**, Qimao Chen\*, Fang Li\*, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen, [**Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures**](https://arxiv.org/pdf/2603.01063)(ELF-VLA), **CVPR 2026**.
+    <article class="publication-card">
+      <a class="publication-figure" href="https://arxiv.org/abs/2603.01928" target="_blank" rel="noopener">
+        <img src="{{ '/images/publications/last-vla.jpg' | relative_url }}" alt="LaST-VLA framework" loading="lazy">
+        <span class="venue-badge venue-badge--preprint">arXiv 2026</span>
+      </a>
+      <div class="publication-copy">
+        <p class="publication-kicker">Latent Reasoning · Autonomous Driving</p>
+        <h3><a href="https://arxiv.org/abs/2603.01928" target="_blank" rel="noopener">LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving</a></h3>
+        <p class="publication-authors"><strong>Yuechen Luo*</strong>, Fang Li*, Shaoqing Xu*, Yang Ji, Zehan Zhang, et al.</p>
+        <p class="publication-summary">LaST-VLA grounds latent reasoning with geometric constraints from 3D models and dynamic foresight from world models.</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/abs/2603.01928" target="_blank" rel="noopener">Paper</a>
+          <a href="https://github.com/luo-yc17/LaST-VLA" target="_blank" rel="noopener">Repository</a>
+          <span class="resource-note">Code coming soon</span>
+        </div>
+      </div>
+    </article>
 
-- **Yuechen Luo**, Fang Li\*, Shaoqing Xu\*, Zhiyi Lai, Lei Yang, Qimao Chen, Ziang Luo, Zixun Xie, Shengyin Jiang, Jiaxin Liu, Long Chen, Bing Wang, Zhi-xin Yang, [**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**](https://arxiv.org/abs/2509.13769), **ICRA 2026**.
+    <article class="publication-card">
+      <a class="publication-figure" href="https://arxiv.org/abs/2603.01063" target="_blank" rel="noopener">
+        <img src="{{ '/images/publications/elf-vla.png' | relative_url }}" alt="ELF-VLA training pipeline" loading="lazy">
+        <span class="venue-badge">CVPR 2026</span>
+      </a>
+      <div class="publication-copy">
+        <p class="publication-kicker">Reinforcement Learning · Failure Feedback</p>
+        <h3><a href="https://arxiv.org/abs/2603.01063" target="_blank" rel="noopener">Unleashing VLA Potentials in Autonomous Driving via Explicit Learning from Failures</a></h3>
+        <p class="publication-authors"><strong>Yuechen Luo*</strong>, Qimao Chen*, Fang Li*, Shaoqing Xu, Jiaxin Liu, Ziying Song, Zhi-Xin Yang, Fuxi Wen</p>
+        <p class="publication-summary">ELF-VLA turns persistent RL failures into structured feedback and high-value corrective rollouts.</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/abs/2603.01063" target="_blank" rel="noopener">Paper</a>
+          <a href="https://github.com/luo-yc17/ELF-VLA" target="_blank" rel="noopener">Repository</a>
+          <span class="resource-note">Code coming soon</span>
+        </div>
+      </div>
+    </article>
 
-- Ziang Luo, Kangan Qian, Jiahua Wang, **Yuechen Luo**, Jinyu Miao, Zheng Fu, Yunlong Wang, Sicong Jiang, Zilin Huang, Yifei Hu, Yuhao Yang, Hao Ye, Mengmeng Yang, Xiaojian Dong, Kun Jiang, Diange Yang, [**MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases**](https://arxiv.org/abs/2509.20843), **ICRA 2026**.
+    <article class="publication-card">
+      <a class="publication-figure" href="https://arxiv.org/abs/2509.13769" target="_blank" rel="noopener">
+        <img src="{{ '/images/publications/adathinkdrive.jpg' | relative_url }}" alt="AdaThinkDrive overview" loading="lazy">
+        <span class="venue-badge">ICRA 2026</span>
+      </a>
+      <div class="publication-copy">
+        <p class="publication-kicker">Adaptive Reasoning · Reinforcement Learning</p>
+        <h3><a href="https://arxiv.org/abs/2509.13769" target="_blank" rel="noopener">AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving</a></h3>
+        <p class="publication-authors"><strong>Yuechen Luo*</strong>, Fang Li*, Shaoqing Xu*, Zhiyi Lai, Lei Yang, Qimao Chen, et al.</p>
+        <p class="publication-summary">AdaThinkDrive learns when to reason and when to act directly, reducing unnecessary chain-of-thought in simple scenes.</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/abs/2509.13769" target="_blank" rel="noopener">Paper</a>
+          <a href="https://github.com/luo-yc17/AdaThinkDrive" target="_blank" rel="noopener">Repository</a>
+          <span class="resource-note">Code coming soon</span>
+        </div>
+      </div>
+    </article>
 
+    <article class="publication-card">
+      <a class="publication-figure" href="https://arxiv.org/abs/2509.20843" target="_blank" rel="noopener">
+        <img src="{{ '/images/publications/mtrdrive.png' | relative_url }}" alt="MTRDrive framework" loading="lazy">
+        <span class="venue-badge">ICRA 2026</span>
+      </a>
+      <div class="publication-copy">
+        <p class="publication-kicker">Memory · Tool Use · Corner Cases</p>
+        <h3><a href="https://arxiv.org/abs/2509.20843" target="_blank" rel="noopener">MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases</a></h3>
+        <p class="publication-authors">Ziang Luo*, Kangan Qian*, Jiahua Wang, <strong>Yuechen Luo</strong>, Jinyu Miao, et al.</p>
+        <p class="publication-summary">MTRDrive combines procedural memory retrieval with dynamic tools to improve robust reasoning in unseen construction scenarios.</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/abs/2509.20843" target="_blank" rel="noopener">Paper</a>
+          <span class="resource-note resource-note--muted">Code not public</span>
+        </div>
+      </div>
+    </article>
 
-- Qimao Chen, Fang Li, Shaoqing Xu, Zhiyi Lai, Zixun Xie, **Yuechen Luo**, Shengyin Jiang, Hanbing Li, Long Chen, Bing Wang, Yi Zhang, Zhi-Xin Yang, [**VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**](https://arxiv.org/abs/2601.12672), **AAAI 2026**.
-  
+    <article class="publication-card">
+      <a class="publication-figure" href="https://ojs.aaai.org/index.php/AAAI/article/view/37290" target="_blank" rel="noopener">
+        <img src="{{ '/images/publications/vilta.png' | relative_url }}" alt="VILTA framework" loading="lazy">
+        <span class="venue-badge">AAAI 2026</span>
+      </a>
+      <div class="publication-copy">
+        <p class="publication-kicker">Adversarial Training · Long-Tail Robustness</p>
+        <h3><a href="https://arxiv.org/abs/2601.12672" target="_blank" rel="noopener">VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness</a></h3>
+        <p class="publication-authors">Qimao Chen*, Fang Li*, Shaoqing Xu*, Zhiyi Lai, Zixun Xie, <strong>Yuechen Luo</strong>, et al.</p>
+        <p class="publication-summary">VILTA places a VLM adversary inside closed-loop training to generate challenging yet plausible agent trajectories.</p>
+        <div class="publication-links">
+          <a href="https://arxiv.org/abs/2601.12672" target="_blank" rel="noopener">Paper</a>
+          <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37290" target="_blank" rel="noopener">AAAI</a>
+          <span class="resource-note resource-note--muted">Code not public</span>
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
 
-<!-- ## Preprints and Codebases -->
-
-
-
-
-# 📖 Educations
-- *2024.09 - present*, Master's Student, School of Vehicle and Mobility, Tsinghua Univeristy, Beijing, China.
-- *2020.09 - 2024.07*, Undergraduate, School of Transportation, Harbin Institute of Technology, Harbin, China.
+<footer class="site-note">
+  <p>© {{ site.time | date: '%Y' }} Yuechen Luo · Built with Jekyll and GitHub Pages.</p>
+</footer>
