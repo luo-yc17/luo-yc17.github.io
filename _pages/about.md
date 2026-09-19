@@ -89,7 +89,7 @@ redirect_from:
   <div class="publication-list">
     <article class="publication-card">
       <a class="publication-figure" href="https://arxiv.org/abs/2608.26058" target="_blank" rel="noopener">
-        <img src="{{ '/images/publications/ucag-p.png' | relative_url }}" alt="UCAG-P overview" loading="lazy">
+        <img src="{{ '/images/publications/ucag-p-figure-3.png' | relative_url }}" alt="UCAG-P Figure 3 overview" loading="lazy">
         <span class="venue-badge venue-badge--preprint">Xiaomi Technical Report</span>
       </a>
       <div class="publication-copy">
@@ -108,7 +108,7 @@ redirect_from:
 
     <article class="publication-card">
       <a class="publication-figure" href="https://eccv.ecva.net/virtual/2026/poster/4231" target="_blank" rel="noopener">
-        <img src="{{ '/images/publications/world-in-loop.png' | relative_url }}" alt="World-in-Loop overview" loading="lazy">
+        <img src="{{ '/images/publications/world-in-loop-figure-3.png' | relative_url }}" alt="World-in-Loop Figure 3 overview" loading="lazy">
         <span class="venue-badge">ECCV 2026</span>
         <span class="ccf-badge ccf-badge--b">CCF B</span>
       </a>
@@ -127,7 +127,7 @@ redirect_from:
 
     <article class="publication-card">
       <a class="publication-figure" href="https://arxiv.org/abs/2607.00399" target="_blank" rel="noopener">
-        <img src="{{ '/images/publications/drivever.jpg' | relative_url }}" alt="DriveVer overview" loading="lazy">
+        <img src="{{ '/images/publications/drivever-figure-2.jpg' | relative_url }}" alt="DriveVer Figure 2 architecture" loading="lazy">
         <span class="venue-badge">IROS 2026</span>
         <span class="ccf-badge ccf-badge--c">CCF C</span>
       </a>
