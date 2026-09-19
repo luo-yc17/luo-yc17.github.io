@@ -12,7 +12,6 @@ redirect_from:
 
 <section class="intro-section">
   <p class="eyebrow">ABOUT ME</p>
-  <h1>Building reliable intelligence for autonomous systems.</h1>
   <p class="intro-lead">
     Hi, I am <strong>Yuechen Luo</strong>, a master's student at the
     <a href="https://www.svm.tsinghua.edu.cn/" target="_blank" rel="noopener">School of Vehicle and Mobility, Tsinghua University</a>,
@@ -87,12 +86,12 @@ redirect_from:
     <article class="publication-card">
       <a class="publication-figure" href="https://arxiv.org/abs/2608.26058" target="_blank" rel="noopener">
         <img src="{{ '/images/publications/ucag-p.png' | relative_url }}" alt="UCAG-P overview" loading="lazy">
-        <span class="venue-badge venue-badge--preprint">arXiv 2026</span>
+        <span class="venue-badge venue-badge--preprint">Xiaomi Technical Report</span>
       </a>
       <div class="publication-copy">
-        <p class="publication-kicker">Embodied Intelligence · Cross-Embodiment Learning</p>
+        <p class="publication-kicker">Xiaomi Technical Report · Cross-Embodiment Learning</p>
         <h3><a href="https://arxiv.org/abs/2608.26058" target="_blank" rel="noopener">One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation</a></h3>
-        <p class="publication-authors">Shaoqing Xu*, Fang Li*, Guozhi Zhan, Zhixiang Duan, Yuhan Wang, <strong>Yuechen Luo</strong>, et al.</p>
+        <p class="publication-authors"><strong>Core Contributor</strong></p>
         <p class="publication-summary">UCAG-P aligns heterogeneous robot and human demonstrations in a shared camera-centric action space for transferable manipulation.</p>
         <div class="publication-links">
           <a href="https://arxiv.org/abs/2608.26058" target="_blank" rel="noopener">Paper</a>
@@ -107,6 +106,7 @@ redirect_from:
       <a class="publication-figure" href="https://eccv.ecva.net/virtual/2026/poster/4231" target="_blank" rel="noopener">
         <img src="{{ '/images/publications/world-in-loop.png' | relative_url }}" alt="World-in-Loop overview" loading="lazy">
         <span class="venue-badge">ECCV 2026</span>
+        <span class="ccf-badge ccf-badge--b">CCF B</span>
       </a>
       <div class="publication-copy">
         <p class="publication-kicker">World Models · Online Correction</p>
@@ -125,6 +125,7 @@ redirect_from:
       <a class="publication-figure" href="https://arxiv.org/abs/2607.00399" target="_blank" rel="noopener">
         <img src="{{ '/images/publications/drivever.jpg' | relative_url }}" alt="DriveVer overview" loading="lazy">
         <span class="venue-badge">IROS 2026</span>
+        <span class="ccf-badge ccf-badge--c">CCF C</span>
       </a>
       <div class="publication-copy">
         <p class="publication-kicker">Test-Time Verification · Planning</p>
@@ -196,6 +197,7 @@ redirect_from:
       <a class="publication-figure" href="https://arxiv.org/abs/2603.01063" target="_blank" rel="noopener">
         <img src="{{ '/images/publications/elf-vla.png' | relative_url }}" alt="ELF-VLA training pipeline" loading="lazy">
         <span class="venue-badge">CVPR 2026</span>
+        <span class="ccf-badge ccf-badge--a">CCF A</span>
       </a>
       <div class="publication-copy">
         <p class="publication-kicker">Reinforcement Learning · Failure Feedback</p>
@@ -214,6 +216,7 @@ redirect_from:
       <a class="publication-figure" href="https://arxiv.org/abs/2509.13769" target="_blank" rel="noopener">
         <img src="{{ '/images/publications/adathinkdrive.jpg' | relative_url }}" alt="AdaThinkDrive overview" loading="lazy">
         <span class="venue-badge">ICRA 2026</span>
+        <span class="ccf-badge ccf-badge--b">CCF B</span>
       </a>
       <div class="publication-copy">
         <p class="publication-kicker">Adaptive Reasoning · Reinforcement Learning</p>
@@ -232,6 +235,7 @@ redirect_from:
       <a class="publication-figure" href="https://arxiv.org/abs/2509.20843" target="_blank" rel="noopener">
         <img src="{{ '/images/publications/mtrdrive.png' | relative_url }}" alt="MTRDrive framework" loading="lazy">
         <span class="venue-badge">ICRA 2026</span>
+        <span class="ccf-badge ccf-badge--b">CCF B</span>
       </a>
       <div class="publication-copy">
         <p class="publication-kicker">Memory · Tool Use · Corner Cases</p>
@@ -249,6 +253,7 @@ redirect_from:
       <a class="publication-figure" href="https://ojs.aaai.org/index.php/AAAI/article/view/37290" target="_blank" rel="noopener">
         <img src="{{ '/images/publications/vilta.png' | relative_url }}" alt="VILTA framework" loading="lazy">
         <span class="venue-badge">AAAI 2026</span>
+        <span class="ccf-badge ccf-badge--a">CCF A</span>
       </a>
       <div class="publication-copy">
         <p class="publication-kicker">Adversarial Training · Long-Tail Robustness</p>
