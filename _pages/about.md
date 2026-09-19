@@ -43,7 +43,9 @@ redirect_from:
 
   <div class="education-list">
     <article class="education-card">
-      <div class="institution-mark institution-mark--thu" aria-hidden="true">THU</div>
+      <div class="institution-mark institution-mark--logo" aria-hidden="true">
+        <img src="{{ '/images/education/tsinghua-logo.png' | relative_url }}" alt="">
+      </div>
       <div class="education-copy">
         <div class="education-title-row">
           <h3>Tsinghua University</h3>
@@ -55,7 +57,9 @@ redirect_from:
     </article>
 
     <article class="education-card">
-      <div class="institution-mark institution-mark--hit" aria-hidden="true">HIT</div>
+      <div class="institution-mark institution-mark--logo" aria-hidden="true">
+        <img src="{{ '/images/education/hit-logo.png' | relative_url }}" alt="">
+      </div>
       <div class="education-copy">
         <div class="education-title-row">
           <h3>Harbin Institute of Technology</h3>
