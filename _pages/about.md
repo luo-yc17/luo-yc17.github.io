@@ -30,6 +30,29 @@ redirect_from:
   </div>
 </section>
 
+<span class="anchor" id="news"></span>
+
+<section class="content-section news-section">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">LATEST</p>
+      <h2>News</h2>
+    </div>
+    <span class="section-count">02</span>
+  </div>
+
+  <div class="news-list">
+    <article class="news-item">
+      <time datetime="2026-09">Sep 2026</time>
+      <p><strong>Xiaomi OneVL</strong> has been accepted to <strong>NeurIPS 2026</strong>.</p>
+    </article>
+    <article class="news-item">
+      <time datetime="2026-09">Sep 2026</time>
+      <p><strong>LaST-VLA</strong> has been accepted to <strong>NeurIPS 2026</strong>.</p>
+    </article>
+  </div>
+</section>
+
 <span class="anchor" id="education"></span>
 
 <section class="content-section education-section">
@@ -163,7 +186,8 @@ redirect_from:
     <article class="publication-card">
       <a class="publication-figure" href="https://xiaomi-embodied-intelligence.github.io/OneVL/" target="_blank" rel="noopener">
         <img src="{{ '/images/publications/onevl.png' | relative_url }}" alt="Xiaomi OneVL framework" loading="lazy">
-        <span class="venue-badge venue-badge--preprint">Technical Report 2026</span>
+        <span class="venue-badge">NeurIPS 2026</span>
+        <span class="ccf-badge ccf-badge--a">CCF A</span>
       </a>
       <div class="publication-copy">
         <p class="publication-kicker">Latent Reasoning · World Models</p>
@@ -182,7 +206,8 @@ redirect_from:
     <article class="publication-card">
       <a class="publication-figure" href="https://arxiv.org/abs/2603.01928" target="_blank" rel="noopener">
         <img src="{{ '/images/publications/last-vla.jpg' | relative_url }}" alt="LaST-VLA framework" loading="lazy">
-        <span class="venue-badge venue-badge--preprint">arXiv 2026</span>
+        <span class="venue-badge">NeurIPS 2026</span>
+        <span class="ccf-badge ccf-badge--a">CCF A</span>
       </a>
       <div class="publication-copy">
         <p class="publication-kicker">Latent Reasoning · Autonomous Driving</p>
